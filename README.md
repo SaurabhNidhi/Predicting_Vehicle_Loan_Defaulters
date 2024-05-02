@@ -1,5 +1,5 @@
 # Predicting_Vehicle_Loan_Defaulters
-The aim is to analyze data related to vehicle loans to determine factors affecting the ratio of loan defaulters. 
+The aim is to analyze data related to vehicle loans to determine factors affecting the ratio of loan defaulters.
 
 import pandas as pd
 import numpy as np
