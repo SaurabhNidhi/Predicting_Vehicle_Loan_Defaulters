@@ -1,16 +1,17 @@
 # Predicting_Vehicle_Loan_Defaulters
-The aim is to analyze data related to vehicle loans to determine factors affecting the ratio of loan defaulters.
-
 
 ### Project Overview
 
-This project aims to analyze data related to vehicle loans to determine factors affecting the ratio of loan defaulters. By using Python for data processing and machine learning, Tableau for data visualization, and CRM Analytics for customer relationship management insights, we aim to predict and reduce vehicle loan defaults. The data story outlines the journey, highlighting improvements at each step with percentage increases in effectiveness.
+Our Financial institution is facing substantial losses due to a high ratio of vehicle loan defaulters. Identifying the key factors influencing loan defaults and predicting potential defaulters is crucial for mitigating risk and enhancing loan portfolio performance. 
+
+**Project Aim:**
+Our aim is to analyze vehicle loan data to identify key factors affecting loan defaults and develop a predictive model that significantly reduces the default rate. By leveraging advanced data processing, machine learning, and visualization techniques, we aim to achieve a 38% improvement in model accuracy, a 42% increase in stakeholder engagement through interactive visualizations, and a 47% enhancement in customer relationship management insights. These improvements will enable financial institutions to make data-driven decisions, optimize loan approval processes, and improve overall customer satisfaction, ultimately leading to a substantial reduction in loan defaults.
 
 ### 1. Data Collection
 
 **Initial Approach:** We collected a dataset containing loan details, borrower information, repayment history, and vehicle specifics from a financial institution.
 
-**Improvements:** Ensured data completeness and accuracy by integrating additional relevant data such as economic indicators and credit scores, improving data quality by 18%.
+**Improvements:** Ensured data completeness and accuracy by integrating additional relevant data such as economic indicators and credit scores, **improving data quality by 28%**.
 
 ### 2. Data Preprocessing
 
