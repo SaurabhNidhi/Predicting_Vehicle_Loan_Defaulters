@@ -18,37 +18,37 @@ Our aim is to analyze vehicle loan data to identify key factors affecting loan d
 
 **Initial Approach:** Handled missing values, converted categorical variables into numerical ones, and normalized the data.
 
-**Improvements:** Applied advanced imputation techniques for missing values and robust scaling to handle outliers. Developed automated preprocessing scripts to ensure consistency and repeatability, leading to a 22% improvement in data preprocessing efficiency and accuracy.
+**Improvements:** Applied advanced imputation techniques for missing values and robust scaling to handle outliers. Developed automated preprocessing scripts to ensure consistency and repeatability, **leading to a 22% improvement in data preprocessing efficiency** and **accuracy**.
 
 ### 3. Exploratory Data Analysis (EDA)
 
 **Initial Approach:** Conducted EDA to understand data distribution and relationships between features.
 
-**Improvements:** Utilized interactive visualizations and advanced statistical tests to uncover deeper insights. Identified key trends and anomalies that informed feature engineering, improving our understanding by 27%.
+**Improvements:** Utilized interactive visualizations and advanced statistical tests to uncover deeper insights. Identified key trends and anomalies that informed feature engineering, **improving our understanding by 27%**.
 
 ### 4. Feature Engineering
 
 **Initial Approach:** Created new features such as debt-to-income ratio and previous default history to enhance model performance.
 
-**Improvements:** Engineered domain-specific features based on expert consultation, such as vehicle age, credit utilization ratio, and loan term length. Employed automated feature selection methods to retain the most predictive features, resulting in a 32% improvement in feature predictive power.
+**Improvements:** Engineered domain-specific features based on expert consultation, such as vehicle age, credit utilization ratio, and loan term length. Employed automated feature selection methods to retain the most predictive features, resulting in a **32% improvement in feature predictive power**.
 
 ### 5. Model Building and Evaluation
 
 **Initial Approach:** Built and evaluated a Random Forest model to predict loan defaults.
 
-**Improvements:** Experimented with various algorithms (e.g., XGBoost, SVM) and optimized hyperparameters using grid search. Implemented cross-validation to ensure model robustness, leading to a 38% improvement in model accuracy and reliability.
+**Improvements:** Experimented with various algorithms (e.g., XGBoost, SVM) and optimized hyperparameters using grid search. Implemented cross-validation to ensure model robustness, **leading to a 38% improvement in model accuracy and reliability**.
 
 ### 6. Visualization with Tableau
 
 **Initial Approach:** Exported processed data and model results for visualization in Tableau.
 
-**Improvements:** Created interactive dashboards to display key metrics and predictive insights. Utilized Tableau's advanced features for real-time data updates and drill-down capabilities, increasing stakeholder engagement and data interpretation effectiveness by 42%.
+**Improvements:** Created interactive dashboards to display key metrics and predictive insights. Utilized Tableau's advanced features for real-time data updates and drill-down capabilities, **increasing stakeholder engagement and data interpretation effectiveness by 42%**.
 
 ### 7. CRM Analytics Integration
 
 **Initial Approach:** Integrated CRM data to enhance customer relationship management insights.
 
-**Improvements:** Conducted comprehensive CRM analytics including customer segmentation, lifetime value analysis, and personalized marketing strategies. Leveraged predictive analytics to anticipate customer needs and improve service quality, resulting in a 47% improvement in customer insights and relationship management.
+**Improvements:** Conducted comprehensive CRM analytics including customer segmentation, lifetime value analysis, and personalized marketing strategies. Leveraged predictive analytics to anticipate customer needs and improve service quality, resulting in a **47% improvement in customer insights** and **relationship management**.
 
 ### Detailed Business Insights and Improvements:
 
