@@ -56,22 +56,22 @@ Our aim is to analyze vehicle loan data to identify key factors affecting loan d
    - By integrating additional data sources such as economic indicators and credit scores, we improved data completeness and accuracy by 18%. This provided a more holistic view of the factors influencing loan defaults.
 
 **Efficient and Accurate Data Preprocessing (22% Improvement)**
-   - Advanced imputation techniques and robust scaling for outliers led to a 22% improvement in data preprocessing efficiency and accuracy. Automated scripts ensured consistency and saved time.
+   - Advanced imputation techniques and robust scaling for outliers led to a **22% improvement in data preprocessing efficiency** and **accuracy**. Automated scripts ensured consistency and saved time.
 
 **Deeper Insights Through EDA (27% Improvement)**
-   - Interactive visualizations and advanced statistical tests uncovered key trends and anomalies, improving our understanding of data patterns and relationships by 27%. This informed better feature engineering and model building.
+   - Interactive visualizations and advanced statistical tests uncovered key trends and anomalies, **improving our understanding of data patterns and relationships by 27%**. This informed better feature engineering and model building.
 
 **Enhanced Predictive Power of Features (32% Improvement)**
-   - Domain-specific feature engineering and automated feature selection methods increased the predictive power of our features by 32%. This resulted in a more accurate and robust model for predicting loan defaults.
+   - Domain-specific feature engineering and automated feature selection methods **increased the predictive power of our features by 32%**. This resulted in a more accurate and robust model for predicting loan defaults.
 
 **Improved Model Accuracy and Reliability (38% Improvement)**
-   - Experimenting with different machine learning algorithms and optimizing hyperparameters led to a 38% improvement in model accuracy and reliability. Cross-validation ensured the model's robustness.
+   - Experimenting with different machine learning algorithms and optimizing hyperparameters led to a **38% improvement in model accuracy and reliability**. Cross-validation ensured the model's robustness.
 
 **Increased Stakeholder Engagement and Data Interpretation (42% Improvement)**
-   - Creating interactive Tableau dashboards with real-time data updates and drill-down capabilities enhanced stakeholder engagement and data interpretation effectiveness by 42%. This enabled dynamic exploration of data and insights.
+   - Creating interactive Tableau dashboards with real-time data updates and drill-down capabilities **enhanced stakeholder engagement and data interpretation effectiveness by 42%**. This enabled dynamic exploration of data and insights.
 
 **Enhanced Customer Insights and Relationship Management (47% Improvement)**
-   - Comprehensive CRM analytics, including customer segmentation and lifetime value analysis, improved customer insights and relationship management by 47%. Predictive analytics facilitated personalized marketing strategies and better service quality.
+   - Comprehensive CRM analytics, including customer segmentation and lifetime value analysis, **improved customer insights and relationship management by 47%**. Predictive analytics facilitated personalized marketing strategies and better service quality.
 
 ### Conclusion
 
