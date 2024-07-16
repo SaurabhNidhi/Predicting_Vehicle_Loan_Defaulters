@@ -5,6 +5,7 @@
 Our Financial institution is facing substantial losses due to a high ratio of vehicle loan defaulters. Identifying the key factors influencing loan defaults and predicting potential defaulters is crucial for mitigating risk and enhancing loan portfolio performance. 
 
 **Project Aim:**
+
 Our aim is to analyze vehicle loan data to identify key factors affecting loan defaults and develop a predictive model that significantly reduces the default rate. By leveraging advanced data processing, machine learning, and visualization techniques, we aim to achieve a 38% improvement in model accuracy, a 42% increase in stakeholder engagement through interactive visualizations, and a 47% enhancement in customer relationship management insights. These improvements will enable financial institutions to make data-driven decisions, optimize loan approval processes, and improve overall customer satisfaction, ultimately leading to a substantial reduction in loan defaults.
 
 ### 1. Data Collection
